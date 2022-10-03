@@ -6,7 +6,7 @@ Ladijska Hidromehanika je predmet na 2.stopnji Pomorstva. Vsebine so vezane na u
 
 - osnove hidrodinamike,
 - upor plovila - teorija,
-- upor plovila - določaanje,
+- upor plovila - določanje,
 - primer izračuna upora ladje .
 
 
@@ -21,9 +21,6 @@ Ladijska Hidromehanika je predmet na 2.stopnji Pomorstva. Vsebine so vezane na u
 
 ## Manevrabilnost plovila
 
-- določevanje karakteristik valovanja - statističen popis,
-- vpliv valov na dinamiko ladje ali druge morske strukture,
-- manevrabilnost ladje:
-        - IMO zahteve in testi za manevrabilnost ladje
-        - osnovni matematični model manevriranja ladje.
+- IMO zahteve in testi za manevrabilnost ladje
+- osnovni matematični model manevriranja ladje.
 
